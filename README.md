@@ -1,10 +1,10 @@
 # Attica Highway Simulation
 
-##Compilation:
+## Compilation:
 	
 	g++ -o virtualHighway ./client.cpp ./highway.cpp ./segment.cpp ./entrance.cpp ./toll.cpp ./car.cpp
-
-##Run:
+ 
+## Run:
 
 	./virtualHighway <N> <Nsegs> <K>
 
