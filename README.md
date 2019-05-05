@@ -3,11 +3,11 @@ A simulation of Attica Highway(one direction)
 
 ## Compilation:
 	
-	g++ -o virtualHighway ./client.cpp ./highway.cpp ./segment.cpp ./entrance.cpp ./toll.cpp ./car.cpp
+	$ g++ -o virtualHighway ./client.cpp ./highway.cpp ./segment.cpp ./entrance.cpp ./toll.cpp ./car.cpp
  
 ## Run:
 
-	./virtualHighway <N> <Nsegs> <K>
+	$ ./virtualHighway <N> <Nsegs> <K>
 
 	where:
 		<N>		: (int) number of simulation cycles
