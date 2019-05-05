@@ -11,7 +11,7 @@ A simulation of Attica Highway(one direction)
 
 	where:
 		<N>		: (int) number of simulation cycles
-		<Nsegs>	: (int) number of highway segments
+		<Nsegs>	        : (int) number of highway segments
 		<K>		: (int) Max number of vehicles that can enter to a node from a toll station
 	
 	Note: 
