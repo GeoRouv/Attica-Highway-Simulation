@@ -1,4 +1,4 @@
-# Attica Highway Simulation
+# attica-highway-simulation
 A simulation of Attica Highway(one direction)
 
 ## Compile
